@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+#Hello There✌
 
 <!--
 **ra-md/ra-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
